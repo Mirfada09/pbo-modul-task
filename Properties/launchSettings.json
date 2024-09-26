@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PBO Yoana": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
